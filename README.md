@@ -36,7 +36,15 @@ Again, I did not encounter any specific challenges. However, complex formulas li
 1. Majority of the "plays" (~61%) had goals of <$5000. These campaigns also had a significantly high success rate (~71%) compared to the average of 49%. 
 2. "Plays" with goals between $5000 and $25,000 had a lower success rate of ~51%. Very few campaigns had goals >$25,000 and the success % may not be meanigful due to the low sample size.
 ### Limitations of the Dataset
-The dataset provides a look into the performance of campaigns of different sizes, launched at various times. However, critical insights on why similar sized campaigns failed is difficult to glean from the data. Additional information to subdivide the data (City, type of play - comedy, tragedy etc., marketing information etc.) may give somebody like Louise the insight she needs to launch a successful campaign. 
+1. The dataset provides a look into the performance of campaigns of different sizes, launched at various times. However, critical insights on why similar sized campaigns failed is difficult to glean from the data. Additional information to subdivide the data (city, type of play - e.g. comedy vs tragedy, marketing information etc.) may give somebody like Louise the insight she needs to launch a successful campaign. For example, it can be observed from the data that Great Britain has a significantly higher % of successful "plays" compared to the US. 
+2. Another limitations is that columns like "staff_pick" and "spotlight" do not come with any description of what they mean and hence cannot be used effectively in the analysis.
+
+### Other Possible Charts/Tables
+1. Although not very useful for Louise, the following chart is interesting and points to possible variation among different geograohic profiles within the United States. The Bar Chart below shows that Great Britain had significantly higher % of successful "plays" campaign compared to the US (77% vs. 62%)
+
+![Theater_Outcome_by_Country](https://user-images.githubusercontent.com/81054290/115305003-451b1300-a12b-11eb-8db0-8dbedb0b9182.png)
+
+
 
 
 
