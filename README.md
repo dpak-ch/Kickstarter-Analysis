@@ -15,6 +15,7 @@ After filtering down to "theater" (which is partly what Louise is interested in)
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/81054290/115276633-df1d9400-a108-11eb-8621-87a546df4471.png)
 
+#### Challenges
 While I did not encounter any challenges in the workflow, here are a couple of things to watch out for:
 1. Applying Filters correctly is critical to ensure the analysis provides the desired insight. 
 2. We've filtered the data by parent category. Another option will be to include additional filters for "Subcategory" and "Country". While these filters did not change the analysis conclusions, there could have been additional insights.
@@ -24,4 +25,20 @@ For this analysis, I used "countifs" to bin outcomes by goal size. A Line chart 
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/81054290/115279133-ec884d80-a10b-11eb-9877-c16344964fcc.png)
 
+#### Challenges
 Again, I did not encounter any specific challenges. However, complex formulas like Countifs that use multiple conditions are diffuclt to quality check and can lead to erroneous results, especially in large datasets. Do avoid this, it is recommended to do spot checks on the results by manual filters applied on the raw data.
+
+## Results
+### Conclusions About Outcomes Based on Launch Date
+1. May-Jul have seen the most number of campaign launches. While the number of campaigns launched are well above the average for the entire year, the percentage of successful campaigns is only modestly higher than average (~65% vs average of 61%). So, someone starting a campaign in this timeframe can expect a slight edge over starting the rest of the months.
+2. December is the worst month for campaign launches. Not only were there the lowest number of launches, the % of failed campaigns is also the highest for that month (51% vs average of 39% failed). 
+### Outcomes Based on Goals
+1. Majority of the "plays" (~61%) had goals of <$5000. These campaigns also had a significantly high success rate (~71%) compared to the average of 49%. 
+2. "Plays" with goals between $5000 and $25,000 had a lower success rate of ~51%. Very few campaigns had goals >$25,000 and the success % may not be meanigful due to the low sample size.
+### Limitations of the Dataset
+The dataset provides a look into the performance of campaigns of different sizes, launched at various times. However, critical insights on why similar sized campaigns failed is difficult to glean from the data. Additional information to subdivide the data (City, type of play - comedy, tragedy etc., marketing information etc.) may give somebody like Louise the insight she needs to launch a successful campaign. 
+
+
+
+
+
