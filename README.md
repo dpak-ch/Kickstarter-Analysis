@@ -2,7 +2,9 @@
 
 ## Contents
 [Overview](#overview-of-the-project)
+
 [Analysis](#analysis-and-challenges)
+
 [Results](#results)
 
 ## Overview of the Project
