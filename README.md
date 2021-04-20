@@ -1,8 +1,9 @@
 # Kickstarter Analysis Using Excel
 
 ## Contents
-[Purpose](#purpose)
-
+[Overview](#overview-of-the-project)
+[Analysis](#analysis-and-challenges)
+[Results](#results)
 
 ## Overview of the Project
 ### Purpose
