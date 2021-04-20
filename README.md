@@ -1,4 +1,9 @@
 # Kickstarter Analysis Using Excel
+
+## Contents
+### [Purpose] (#Purpose)
+
+
 ## Overview of the Project
 ### Purpose
 The purpose of the analysis is two-fold:
