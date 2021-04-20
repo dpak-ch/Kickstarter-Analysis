@@ -1,7 +1,7 @@
 # Kickstarter Analysis Using Excel
 
 ## Contents
-[Purpose] (#Purpose)
+[Purpose] (#purpose)
 
 
 ## Overview of the Project
