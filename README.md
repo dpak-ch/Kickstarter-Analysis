@@ -44,6 +44,9 @@ Again, I did not encounter any specific challenges. However, complex formulas li
 
 ![Theater_Outcome_by_Country](https://user-images.githubusercontent.com/81054290/115305003-451b1300-a12b-11eb-8db0-8dbedb0b9182.png)
 
+2. Another plot that helps Louise further dig down into the data is a Box and Whisker plot of "plays" outcomes in the US. For this plot, I've filtered down just to the campaigns that had goals <$5000. The plot shows that there is no correlation between goal amount and outcome within these criteria.
+
+![US Plays - Goals vs Outcome B W Plot](https://user-images.githubusercontent.com/81054290/115427001-aa701200-a1c6-11eb-9296-183da8f72a9f.png)
 
 
 
